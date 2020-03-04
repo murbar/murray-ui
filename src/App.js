@@ -16,15 +16,6 @@ function App() {
   return (
     <Styles>
       <Header />
-      <p>
-        July 2019 - is it{' '}
-        <a href="https://github.com/facebook/create-react-app/releases">up to date</a>?
-      </p>
-      <ul>
-        <li>No cruft</li>
-        <li>Styled components - global styles, theme, helpers</li>
-        <li>"Nunito" font face</li>
-      </ul>
 
       <Preview />
 
